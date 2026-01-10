@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Dinesh kanna R
 
-<!--
-**Dineshkanna-FSDev/Dineshkanna-FSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer (React + Django)  
+📚 DSA | Open Source Beginner  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Django, Python
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Open Source Contributions
+
+### 📫 Connect with me
+- LinkedIn:https://www.linkedin.com/in/dinesh-kanna-r/
