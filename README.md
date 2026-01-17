@@ -80,23 +80,17 @@
 <a href="https://www.linkedin.com/in/dinesh-kanna-r/">
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
 </a>
-<a href="">
-  <img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="Instagram" />
-</a>
-<a href="mailto:example@gmail.com">
+<a href="dineshkanna8072@gmail.com">
   <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" />
 </a>
 <a href="https://github.com/Dineshkanna-FSDev">
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
 </a>
-<a href="">
-  <img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209" alt="CodePen" />
-</a>
-<a href="">
+<a href="https://leetcode.com/u/Dineshkanna10007/">
   <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
 </a>
-<a href="">
-  <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
+<a href="https://www.geeksforgeeks.org/profile/dineshka30tc?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="GeeksforGeeks" />
 </a>
 <br><br>
 </div>
