@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  
+
   <table>
     <tr>
       <td align="left">
@@ -31,16 +31,26 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+
 
 ## 💫 About Me
 
-### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
+## Hi I'm Dinesh kanna R
 
-- Enthusiastic about learning and building innovative solutions.  
-- Aiming to grow as a **Full Stack Developer** or **Software Developer**.  
-- Skilled in web development, problem-solving, and exploring emerging technologies.
-- Aiming to build a Responsive web design.
+💻 Full-Stack Developer (React + Django)  
+📚 DSA | Open Source Beginner  
+
+### 🛠 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Django, Python
+- Tools: Git, GitHub
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Open Source Contributions
+
+### 📫 Connect with me
+- LinkedIn:https://www.linkedin.com/in/dinesh-kanna-r/
 
 <details>
   <summary><b>Hobbies</b></summary>
