@@ -4,35 +4,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Dineshkanna-FSDev&data=followers,repositories,stars,commits&theme=radical&title_color=00FFFF" alt="GitHub Stats">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Divider"> <br>
-</div>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="left">
-         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDineshkanna-FSDev&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" alt="Visitors" />
-      </td>
-      <td align="right">
-        <a href="https://github.com/Dineshkanna-FSDev/Dineshkanna-FSDev/stargazers">
-          <img src="https://img.shields.io/github/stars/Dineshkanna-FSDev/Dineshkanna-FSDev.svg?logo=github" alt="Stars">
-        </a>
-        <a href="https://github.com/Dineshkanna-FSDev/Dineshkanna-FSDev/network/members">
-         <img src="https://img.shields.io/github/forks/Dineshkanna-FSDev/Dineshkanna-FSDev.svg?color=blue&logo=github" alt="Forks">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
 ## 💫 About Me
 
 ## Hi I'm Dinesh kanna R
@@ -71,6 +42,34 @@
 
 </details>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Divider"> <br>
+  
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Dineshkanna-FSDev&data=followers,repositories,stars,commits&theme=radical&title_color=00FFFF" alt="GitHub Stats">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Divider"> <br>
+</div>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="left">
+         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDineshkanna-FSDev&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" alt="Visitors" />
+      </td>
+      <td align="right">
+        <a href="https://github.com/Dineshkanna-FSDev/Dineshkanna-FSDev/stargazers">
+          <img src="https://img.shields.io/github/stars/Dineshkanna-FSDev/Dineshkanna-FSDev.svg?logo=github" alt="Stars">
+        </a>
+        <a href="https://github.com/Dineshkanna-FSDev/Dineshkanna-FSDev/network/members">
+         <img src="https://img.shields.io/github/forks/Dineshkanna-FSDev/Dineshkanna-FSDev.svg?color=blue&logo=github" alt="Forks">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Socials & Profiles
@@ -78,7 +77,7 @@
 <br>
 <div align="center">
   
-<a href="">
+<a href="https://www.linkedin.com/in/dinesh-kanna-r/">
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
 </a>
 <a href="">
