@@ -17,6 +17,7 @@
 - Tools: Git, GitHub
 
 ### 🌱 Currently Learning
+- Quantum Computation
 - Data Structures & Algorithms
 - Open Source Contributions
 
