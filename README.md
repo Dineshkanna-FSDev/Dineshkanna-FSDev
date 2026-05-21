@@ -1,8 +1,8 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 ![Header](https://github.com/Dineshkanna-FSDev/Dineshkanna-FSDev/blob/main/github-header-banner.png)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 ## 💫 About Me
 
@@ -44,7 +44,6 @@
 </details>
 
 <div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Divider"> <br> -->
   
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Dineshkanna-FSDev&data=followers,repositories,stars,commits&theme=radical&title_color=00FFFF" alt="GitHub Stats">
 
@@ -71,7 +70,7 @@
 </div>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 ## 🌐 Socials & Profiles
 
